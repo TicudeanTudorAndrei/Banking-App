@@ -2,7 +2,7 @@
 
 This project is a **simple educational banking application backend** built with **Java Spring Boot**. It was used to help explore core backend concepts, RESTful APIs, and Spring Boot features, including **Spring Security**.
 
-![Endpoints](images/endpoints.jpg)
+
 
 ## Overview
 
